@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <title>The Mirror Tarot Interviews Profile - Finbarre Snarey</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Citation record for The Mirror profile of Finbarre Snarey and Tarot Interviews.">
+  <link rel="canonical" href="https://assets.finbarre.com/media/the-mirror-tarot-interviews-profile/">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://assets.finbarre.com/media/the-mirror-tarot-interviews-profile/#webpage",
+    "url": "https://assets.finbarre.com/media/the-mirror-tarot-interviews-profile/",
+    "name": "The Mirror Tarot Interviews profile - Finbarre Snarey",
+    "description": "Citation record for The Mirror profile of Finbarre Snarey and Tarot Interviews.",
+    "inLanguage": "en-GB",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://assets.finbarre.com/#website",
+      "url": "https://assets.finbarre.com/",
+      "name": "Finbarre Snarey Public Assets"
+    },
+    "about": {
+      "@type": "Person",
+      "@id": "https://finbarre.com/#person",
+      "name": "Finbarre Snarey",
+      "url": "https://finbarre.com/"
+    },
+    "mainEntity": {
+      "@type": "NewsArticle",
+      "@id": "https://www.mirror.co.uk/news/uk-news/dad-nearly-dies-covid-endures-37054005",
+      "url": "https://www.mirror.co.uk/news/uk-news/dad-nearly-dies-covid-endures-37054005",
+      "headline": "Dad nearly dies from Covid and endures heartbreaking fallout but now has a unique podcast",
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Mirror",
+        "url": "https://www.mirror.co.uk/"
+      },
+      "mentions": [
+        {
+          "@type": "Person",
+          "@id": "https://finbarre.com/#person",
+          "name": "Finbarre Snarey",
+          "url": "https://finbarre.com/"
+        },
+        {
+          "@type": "CreativeWorkSeries",
+          "@id": "https://tarotinterviews.com/#series",
+          "name": "Tarot Interviews",
+          "url": "https://tarotinterviews.com/"
+        }
+      ]
+    }
+  }
+  </script>
+</head>
+
+<body>
+  <main>
+    <p><a href="/">← Public assets</a></p>
+
+    <h1>The Mirror - Tarot Interviews profile</h1>
+
+    <p>
+      Finbarre Snarey and Tarot Interviews were profiled by <em>The Mirror</em> in a national news article about his recovery, creative work and the launch of a unique podcast.
+    </p>
+
+    <dl>
+      <dt>Publication</dt>
+      <dd>The Mirror</dd>
+
+      <dt>Article</dt>
+      <dd><em>Dad nearly dies from Covid and endures heartbreaking fallout but now has a unique podcast</em></dd>
+
+      <dt>Topic</dt>
+      <dd>Tarot Interviews, creative recovery, podcasting and contemporary tarot culture</dd>
+
+      <dt>Role</dt>
+      <dd>Profile subject</dd>
+
+      <dt>Related work</dt>
+      <dd>Tarot Interviews, Tarot DMs, British Tarot Archive</dd>
+    </dl>
+
+    <p>
+      <a href="https://www.mirror.co.uk/news/uk-news/dad-nearly-dies-covid-endures-37054005" rel="nofollow">
+        Read the original Mirror article
+      </a>
+    </p>
+  </main>
+</body>
+</html>
